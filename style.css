@@ -67,6 +67,56 @@ body{
     grid-template-columns: 20% 20% 20% 20% 20% ;
 }
 
+.rodape{
+    background-color: black;
+    height: 50px 0;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 25px;
+    padding: 12px 0;
+}
+
 .estudante
 {background-image: linear-gradient(#16CFF8,#16CFF8);
 color: 0000;}
+
+.descricao{
+    background-color: #16CFF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px 0;
+    padding: 12px 0;
+}
+
+.imagems-texto{
+    background-color: #16CFF8;
+    color: white;
+    height: 25px 0;
+    padding: 12px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.descricao-do-conteudo{
+    background-color: #16CFF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px 0;
+    padding: 12px 0;
+}
+
+.informacoes{
+    background-color: #16CFF8;
+    height: 25px 0;
+    padding: 12px 0;
+    }
+.texto-dois{
+display: flex;
+justify-content: center;
+align-items: center;
+}
